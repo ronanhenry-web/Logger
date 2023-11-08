@@ -1,0 +1,46 @@
+TRACE 08/11/2023 15:53:40 Fermeture inatendue de l'application
+INFO 08/11/2023 15:53:40 Erreur de lecture du fichier
+TRACE 08/11/2023 15:53:40 Début de l'application
+DANGER 08/11/2023 15:53:40 Warning data
+ERREUR 08/11/2023 15:53:40 APP down
+TRACE 08/11/2023 16:11:27 Fermeture inatendue de l'application
+INFO 08/11/2023 16:11:27 Erreur de lecture du fichier
+TRACE 08/11/2023 16:11:27 Début de l'application
+DANGER 08/11/2023 16:11:27 Warning data
+ERREUR 08/11/2023 16:11:27 APP downnnn
+TRACE 08/11/2023 16:14:56 Fermeture inatendue de l'application
+INFO 08/11/2023 16:14:56 Erreur de lecture du fichier
+TRACE 08/11/2023 16:14:56 Début de l'application
+DANGER 08/11/2023 16:14:56 Warning data
+ERREUR 08/11/2023 16:14:56 APP doooown
+TRACE 08/11/2023 15:53:40 Fermeture inatendue de l'application
+INFO 08/11/2023 15:53:40 Erreur de lecture du fichier
+TRACE 08/11/2023 15:53:40 Début de l'application
+DANGER 08/11/2023 15:53:40 Warning data
+ERREUR 08/11/2023 15:53:40 APP down
+TRACE 08/11/2023 16:11:27 Fermeture inatendue de l'application
+INFO 08/11/2023 16:11:27 Erreur de lecture du fichier
+TRACE 08/11/2023 16:11:27 Début de l'application
+DANGER 08/11/2023 16:11:27 Warning data
+ERREUR 08/11/2023 16:11:27 APP downnnn
+TRACE 08/11/2023 16:14:56 Fermeture inatendue de l'application
+INFO 08/11/2023 16:14:56 Erreur de lecture du fichier
+TRACE 08/11/2023 16:14:56 Début de l'application
+DANGER 08/11/2023 16:14:56 Warning data
+ERREUR 08/11/2023 16:14:56 APP doooown
+TRACE 08/11/2023 15:53:40 Fermeture inatendue de l'application
+INFO 08/11/2023 15:53:40 Erreur de lecture du fichier
+TRACE 08/11/2023 15:53:40 Début de l'application
+DANGER 08/11/2023 15:53:40 Warning data
+ERREUR 08/11/2023 15:53:40 APP down
+TRACE 08/11/2023 16:11:27 Fermeture inatendue de l'application
+INFO 08/11/2023 16:11:27 Erreur de lecture du fichier
+TRACE 08/11/2023 16:11:27 Début de l'application
+DANGER 08/11/2023 16:11:27 Warning data
+ERREUR 08/11/2023 16:11:27 APP downnnn
+TRACE 08/11/2023 16:14:56 Fermeture inatendue de l'application
+INFO 08/11/2023 16:14:56 Erreur de lecture du fichier
+TRACE 08/11/2023 16:14:56 Début de l'application
+DANGER 08/11/2023 16:14:56 Warning data
+ERREUR 08/11/2023 16:14:56 APP doooown
+
