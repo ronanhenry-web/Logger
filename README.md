@@ -1,8 +1,7 @@
 <h1 align="left">Projet Java / Objectif faire un système de logs</h1>
 
-<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
+<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre l'étapes suivante :  
 
-  - avoir une BDD et suivre les consignes du fichier properties
   - compiler le fichier main
 </h3>
 
