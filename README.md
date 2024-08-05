@@ -1,4 +1,4 @@
-<h1 align="left">Projet Java / Objectif faire un système de logs</h1>
+<h1 align="left">Projet Java / Objectif faire un système de log</h1>
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre l'étapes suivante :  
 
