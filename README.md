@@ -1,4 +1,4 @@
-# Projet Java
+# Projet Logger
 
 Objectif faire un système de log
 
